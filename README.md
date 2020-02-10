@@ -17,6 +17,8 @@
 - 部分成果：
     1. 0/4/7号位置识别测量结果：
         ![area_0_4_7](test/65_inference_2020-02-10 16:42:01.jpg)
+        ![area_0_4_7](https://huzing2524.oss-cn-shenzhen.aliyuncs.com/my_files/65_inference_2020-02-10%2016%3A42%3A01.jpg)
     
     2. 3/5号位置识别测量结果：
         ![area_3_5](test/65_inference_2020-02-10 18:49:33.jpg)
+        ![area_0_4_7](https://huzing2524.oss-cn-shenzhen.aliyuncs.com/my_files/65_inference_2020-02-10%2018%3A49%3A33.jpg)
